@@ -89,7 +89,7 @@ Thumbs.db
 # Ejecutables
 *.exe
 
-# Base de datos (si no quieres subirla)
+# Base de datos 
 # utils/base_de_datos.db
 
 NOTA FINAL: Este proyecto no esta terminado, volvere pronto luego de estudiar un poco mas ❤️
